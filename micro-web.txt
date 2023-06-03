@@ -1,0 +1,13 @@
+http://www.cse.unsw.edu.au/~cs9024/micro-web
+http://www.cse.unsw.edu.au/~cs9024/micro-web/X.html
+http://www.cse.unsw.edu.au/~cs9024/micro-web/Y.html
+http://www.cse.unsw.edu.au/~cs9024/micro-web/Z.html
+http://www.cse.unsw.edu.au/~cs9024/micro-web/index.html
+http://www.cse.unsw.edu.au/~cs9024/micro-web http://www.cse.unsw.edu.au/~cs9024/micro-web/X.html 1.000
+http://www.cse.unsw.edu.au/~cs9024/micro-web http://www.cse.unsw.edu.au/~cs9024/micro-web/Y.html 1.000
+http://www.cse.unsw.edu.au/~cs9024/micro-web http://www.cse.unsw.edu.au/~cs9024/micro-web/Z.html 1.000
+http://www.cse.unsw.edu.au/~cs9024/micro-web/X.html http://www.cse.unsw.edu.au/~cs9024/micro-web/index.html 1.000
+http://www.cse.unsw.edu.au/~cs9024/micro-web/Y.html http://www.cse.unsw.edu.au/~cs9024/micro-web/index.html 1.000
+http://www.cse.unsw.edu.au/~cs9024/micro-web/index.html http://www.cse.unsw.edu.au/~cs9024/micro-web/X.html 1.000
+http://www.cse.unsw.edu.au/~cs9024/micro-web/index.html http://www.cse.unsw.edu.au/~cs9024/micro-web/Y.html 1.000
+http://www.cse.unsw.edu.au/~cs9024/micro-web/index.html http://www.cse.unsw.edu.au/~cs9024/micro-web/Z.html 1.000
